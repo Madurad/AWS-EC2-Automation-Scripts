@@ -13,7 +13,7 @@
 #================================================================
 
 aws_ec2_stop () {
-    echo "aws ec2 stop-instances --instance-ids <instance_ID>"
+    aws ec2 stop-instances --instance-ids <instance_ID>
 }
 TIME=$(date +%H:%M)
 echo $TIME
