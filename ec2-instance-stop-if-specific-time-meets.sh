@@ -10,6 +10,7 @@
 # IMPLEMENTATION
 #    version         v0.0.1
 #    author          Madura Dissanayake
+#    date            03-04-2019
 #================================================================
 
 aws_ec2_stop () {
